@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFarm.Web", "UFarm.Web\UFarm.Web.csproj", "{5562593A-0339-4E99-A054-E35B405B72FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFarm.Data", "UFarm.Data\UFarm.Data.csproj", "{2A85C025-F98B-466C-8469-9B3C3455D3CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5562593A-0339-4E99-A054-E35B405B72FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5562593A-0339-4E99-A054-E35B405B72FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5562593A-0339-4E99-A054-E35B405B72FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5562593A-0339-4E99-A054-E35B405B72FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A85C025-F98B-466C-8469-9B3C3455D3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A85C025-F98B-466C-8469-9B3C3455D3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A85C025-F98B-466C-8469-9B3C3455D3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A85C025-F98B-466C-8469-9B3C3455D3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF45F7B-EB1C-47F2-9F90-C3F793FC9A65}
+	EndGlobalSection
+EndGlobal
